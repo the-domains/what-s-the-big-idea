@@ -1,7 +1,7 @@
 name: "What's the Big Idea? "
 favicon: null
-layout_spectrum: 0.8271989787463099
-typography_spectrum: 0.4173218479845673
+layout_spectrum: 0.2343
+typography_spectrum: 0.31885
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.7841907462570816
-  lightness: 0.4317856135312468
-  saturation: 0.09720883192494512
-  rhythmicContrast: 0.22834166116081178
+    - '#000000'
+    - '#6c777b'
+    - '#424a4c'
+    - '#dae5e9'
+    - '#212528'
+  brandStrength: 0.6875
+  lightness: 0
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
