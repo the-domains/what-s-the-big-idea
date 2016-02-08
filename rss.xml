@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[What's the Big Idea? ]]></title>
-        <description><![CDATA[What's the Big Idea? ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[What's the Big Idea Podcast]]></title>
+        <description><![CDATA[What's the Big Idea Podcast]]></description>
+        <link>https://thegrid.ai/what-s-the-big-idea/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 03:28:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Feb 2016 03:37:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/what-s-the-big-idea/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What's the Big Idea? ]]></title>
-            <description><![CDATA[<article><h1>What's the Big Idea? </h1><p>Glad you asked</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/be49bd184288e5076745ef555121745b8aac2f5c.jpg"></article>]]></description>
-            <link>undefinedwhats-the-big-idea/index.html</link>
+            <description><![CDATA[<article><h1>What's the Big Idea? </h1><p>Glad you asked</p></article>]]></description>
+            <link>https://thegrid.ai/what-s-the-big-idea/whats-the-big-idea/index.html</link>
             <guid isPermaLink="false">9eb5239d-61a1-46ed-9691-2764c631d74b</guid>
-            <pubDate>Mon, 08 Feb 2016 03:28:22 GMT</pubDate>
+            <pubDate>Mon, 08 Feb 2016 03:37:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
