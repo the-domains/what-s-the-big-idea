@@ -2,6 +2,7 @@ name: "What's the Big Idea? "
 favicon: null
 layout_spectrum: 0.2343
 typography_spectrum: 0.31885
+title: "What's the Big Idea Podcast"
 cta:
   domain: null
   bucket: null
